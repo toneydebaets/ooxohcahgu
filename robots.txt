@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohtienio.rttmdx.com/sitemap.xml
